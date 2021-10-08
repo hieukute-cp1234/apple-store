@@ -1,0 +1,6 @@
+.box_GB {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  margin: 5px 0 3px 0;
+}
